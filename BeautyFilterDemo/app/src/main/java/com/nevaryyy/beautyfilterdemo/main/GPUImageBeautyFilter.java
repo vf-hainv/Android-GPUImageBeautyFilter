@@ -2,7 +2,7 @@ package com.nevaryyy.beautyfilterdemo.main;
 
 import android.opengl.GLES20;
 
-import jp.co.cyberagent.android.gpuimage.GPUImageFilter;
+import jp.co.cyberagent.android.gpuimage.filter.GPUImageFilter;
 
 /**
  * @author nevaryyy

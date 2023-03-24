@@ -16,8 +16,8 @@ import com.nevaryyy.beautyfilterdemo.util.LogUtil;
 import java.util.List;
 
 import jp.co.cyberagent.android.gpuimage.GPUImage;
-import jp.co.cyberagent.android.gpuimage.GPUImageFilter;
-import jp.co.cyberagent.android.gpuimage.GPUImageFilterGroup;
+import jp.co.cyberagent.android.gpuimage.filter.GPUImageFilter;
+import jp.co.cyberagent.android.gpuimage.filter.GPUImageFilterGroup;
 
 /**
  * @author yuejinyang
